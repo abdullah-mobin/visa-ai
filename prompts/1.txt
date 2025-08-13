@@ -1,0 +1,3 @@
+hello, how are you?
+
+(response limit within 2 paragraphs, each paragraph can contain maximum 4 sentences)
