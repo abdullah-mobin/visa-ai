@@ -1,5 +1,9 @@
 # visa-ai
 voice based ai <hr>
+A software system that run in your computer from terminal and listen to your words.
+Perform daily tasks and browsing by visa ai and achive the power of local LLMs.
+A meta llama3.2: 1 billion param based model will be used. you might tweek inside out 
+if you have better machine.
 
 ### requirements
 
