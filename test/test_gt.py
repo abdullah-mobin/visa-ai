@@ -28,4 +28,4 @@ def speak(text, lang="en"):
     play_obj.wait_done()  # Wait until playback finishes
 
 # Test it
-speak("hi ,fuck you")
+speak("hi ,how are you")
